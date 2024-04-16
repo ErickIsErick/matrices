@@ -14,7 +14,7 @@ function calcular() {
         }
     }
 
-   //Fila por columna
+   //fila por columna
     let resultado = [];
     for (let i = 0; i < 3; i++) {
         resultado.push([]);
